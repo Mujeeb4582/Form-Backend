@@ -14,8 +14,8 @@ This is the backend part of the project, built using Node.js, Express, and Mongo
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd project-backend
+git clone git@github.com:Mujeeb4582/Form-Backend.git
+cd Form-Backend
 ```
 2. Install dependencies:
 
